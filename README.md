@@ -52,16 +52,25 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <ul>
 <li>微信小程序开发教程！每日更新！
 <ul>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-页面布局&管理开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-图文影音列表开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-电商预约外卖到店多商家等开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-会员积分优惠券秒杀拼团等开发教程</a></li> 
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-后台管理教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-开发教程汇总（含前端&后台）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11140-1-2.html">电商类小程序（仿淘宝京东）开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11879-1-2.html">预约类小程序-开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12465-1-3.html">到店类小程序-开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-13010-1-3.html">外卖小程序(仿饿了吗)开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12209-1-3.html">多商家平台小程序（仿大众/美团）开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12192-1-2.html">社区类小程序（仿知乎/豆瓣/贴吧）开发教程</a></li>      
+<li><a href="http://bbs.zhichiwangluo.com/thread-12905-1-1.html">小程序会员/卡券/积分/储值/秒杀/拼团）开发教程</a></li> 
 </ul>
 </li>
       
 <li>全球首个支付宝小程序开发教程！每日更新！
 <ul>
 <li><a href="http://bbs.zhichiwangluo.com/thread-14359-1-1.html">爆点：最新支付宝小程序开发教程汇总（更新）</a></li>
+<li><a href="https://mini.open.alipay.com/channel/miniIndex.htm">第一步：注册企业支付宝小程序（更新）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-13063-1-1.html">第二步：支付宝小程序入驻（更新）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-13008-1-1.html">第三步：支付宝小程序创建（更新）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">第四步：支付宝小程序制作（更新）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-13050-1-1.html">第五步：支付宝小程序打包流程（更新）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-14370-1-1.html">第六步：支付宝小程序提审与发布（更新）</a></li>
 </ul>
 </li>
