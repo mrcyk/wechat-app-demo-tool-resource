@@ -8,8 +8,6 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <li><a href="#%E7%A4%BE%E5%8C%BA">社区</a></li>
 <li><a href="#%E5%B7%A5%E5%85%B7">工具</a></li>
 <li><a href="#%E6%8F%92%E4%BB%B6">插件</a></li>
-<li><a href="#%E5%88%86%E6%9E%90">分析</a></li>
-<li><a href="#%E8%AE%A8%E8%AE%BA">讨论</a></li>
 <li><a href="#%E6%95%99%E7%A8%8B">教程</a></li>
 <li><a href="#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B">视频教程</a></li>
 <li><a href="#%E6%96%87%E7%AB%A0">文章</a></li>
@@ -42,3 +40,24 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <ul>
 <li><a href="http://www.jisuapp.cn/">即速应用-无需代码编程的微信小程序开发工具[含前端&后台]</a></li>
 </ul>
+<h2><a href="#插件" aria-hidden="true" class="anchor" id="user-content-插件"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>插件</h2>
+<ul>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12116-1-1.html">微信小程序-会员卡</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-14086-1-1.html">微信小程序-优惠劵</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12116-1-1.html">微信小程序-积分</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-14337-1-3.html">微信小程序-储值</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12869-1-1.html">微信小程序-拼团</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12834-1-1.html">微信小程序-秒杀</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12839-1-4.html">微信小程序-集赞</a></li>
+</ul>
+<h2><a href="#教程" aria-hidden="true" class="anchor" id="user-content-教程"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>教程</h2>
+<ul>
+<li>全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！
+<ul>
+<li><a href="http://www.diycode.cc/topics/311">第一弹</a></li>
+<li><a href="http://www.diycode.cc/topics/312">第二弹</a></li>
+<li><a href="http://www.diycode.cc/topics/316">第三弹</a></li>
+<li><a href="http://www.diycode.cc/topics/325">第四弹</a></li>
+<li><a href="http://www.diycode.cc/topics/328">第五弹</a></li>
+</ul>
+</li>
