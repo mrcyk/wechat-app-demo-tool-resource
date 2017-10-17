@@ -10,9 +10,7 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <li><a href="#%E6%8F%92%E4%BB%B6">插件</a></li>
 <li><a href="#%E6%95%99%E7%A8%8B">教程</a></li>
 <li><a href="#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B">视频教程</a></li>
-<li><a href="#%E6%96%87%E7%AB%A0">文章</a></li>
 <li><a href="#%E4%BB%A3%E7%A0%81">代码</a></li>
-<li><a href="#%E8%BD%AE%E5%AD%90">轮子</a></li>
 </ul>
 <h2><a href="#置顶" aria-hidden="true" class="anchor" id="user-content-置顶"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>置顶</h2>
 <ul>
@@ -54,10 +52,16 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <ul>
 <li>全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！
 <ul>
-<li><a href="http://www.diycode.cc/topics/311">第一弹</a></li>
-<li><a href="http://www.diycode.cc/topics/312">第二弹</a></li>
-<li><a href="http://www.diycode.cc/topics/316">第三弹</a></li>
-<li><a href="http://www.diycode.cc/topics/325">第四弹</a></li>
-<li><a href="http://www.diycode.cc/topics/328">第五弹</a></li>
+<li><a href="">微信小程序页面布局&管理开发教程</a></li>
+<li><a href="">微信小程序基础组件-图文影音列表开发教程</a></li>
+<li><a href="">微信小程序高级组件-电商预约外卖到店多商家等开发教程</a></li>
+<li><a href="">微信小程序营销组件-会员积分优惠券秒杀拼团等开发教程</a></li> 
+<li><a href="">微信小程序后台管理教程</a></li>
+</ul>
+</li>
+<li>全球首个支付宝小程序开发教程！通宵吐血赶稿，每日更新！
+<ul>
+<li><a href="">爆点：最新支付宝小程序开发教程汇总（更新）</a></li>
+<li><a href="">支付宝小程序后台管理教程</a></li>
 </ul>
 </li>
