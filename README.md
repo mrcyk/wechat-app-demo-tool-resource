@@ -52,16 +52,17 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <ul>
 <li>微信小程序开发教程！每日更新！
 <ul>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-页面布局&管理开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-图文影音列表开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-电商预约外卖到店多商家等开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-会员积分优惠券秒杀拼团等开发教程</a></li> 
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-后台管理教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-页面布局&管理开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-图文影音列表开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-电商预约外卖到店多商家等开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-会员积分优惠券秒杀拼团等开发教程</a></li> 
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">小程序-后台管理教程</a></li>
 </ul>
 </li>
+      
 <li>全球首个支付宝小程序开发教程！每日更新！
 <ul>
 <li><a href="http://bbs.zhichiwangluo.com/thread-14359-1-1.html">爆点：最新支付宝小程序开发教程汇总（更新）</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">支付宝小程序后台管理教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">支付宝小程序-后台管理教程</a></li>
 </ul>
 </li>
