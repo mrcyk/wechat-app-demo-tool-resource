@@ -80,3 +80,22 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <li><a href="http://bbs.zhichiwangluo.com/tpgao_edu-view.html?typeid=8&cpid=422&courseid=38">视频 - 微信小程序高级开发教程第三期</a></li>
 <li><a href="http://bbs.zhichiwangluo.com/tpgao_edu-view.html?typeid=37&cpid=358&courseid=36">视频 - 即速应用小程序开发视频汇总</a></li>
 </ul>
+<h2><a href="#代码" aria-hidden="true" class="anchor" id="user-content-代码"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>代码</h2>
+<ul>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11832-1-1.html">123个微信小程序的源代码还有教学视频！</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11560-1-1.html">微信小程序demo：Winne The Pool 小店</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-15731-1-1.html">微信小程序Demo：小程序画板源码</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12184-1-1.html">微信小程序demo：淘券VIP：优惠券</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11611-1-1.html">微信小程序demo：转盘抽奖</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12411-1-1.html">微信小程序demo：新闻小站；新闻模板</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-15728-1-1.html">微信小程序demo：V2EX社区小程序</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-15726-1-1.html">微信小程序demo：阅享小程序（阅读评价类）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-15727-1-1.html">微信小程序demo：Sudolite（数独小游戏）</a></li>      
+<li><a href="http://bbs.zhichiwangluo.com/thread-15729-1-1.html">微信小程序demo：二十四节气小程序源码</a></li>      
+<li><a href="http://bbs.zhichiwangluo.com/thread-11728-1-1.html">微信小程序demo：微信小程序，简单的商城应用</a></li>  
+<li><a href="http://bbs.zhichiwangluo.com/thread-11549-1-1.html">微信小程序demo：微信小程序-骰子游戏</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12380-1-2.html">微信小程序demo：百货商城小程序类demo开发源码</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11734-1-2.html">微信小程序demo：微信小程序-百度音乐播放器</a></li>      
+<li><a href="http://bbs.zhichiwangluo.com/thread-11722-1-2.html">微信小程序demo：微信小程序-仿百思不得姐</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11638-1-2.html">微信小程序demo：微信小程序后台，基于springboot</a></li>      
+<li><a href="http://bbs.zhichiwangluo.com/thread-11536-1-2.html">微信小程序demo：小程序餐厅模板-带完整交互源码</a></li>      
