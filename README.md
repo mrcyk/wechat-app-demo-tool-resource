@@ -55,14 +55,13 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <ul>
 <li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序-开发教程汇总（含前端&后台）</a></li>
 <li><a href="http://bbs.zhichiwangluo.com/thread-11140-1-2.html">电商类小程序（仿淘宝京东）开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11879-1-2.html">预约类小程序-开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-12465-1-3.html">到店类小程序-开发教程</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-13010-1-3.html">外卖小程序(仿饿了吗)开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-11879-1-2.html">预约类小程序开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-12465-1-3.html">到店类小程序开发教程</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/thread-13010-1-3.html">外卖小程序（仿饿了吗）开发教程</a></li>
 <li><a href="http://bbs.zhichiwangluo.com/thread-12209-1-3.html">多商家平台小程序（仿大众/美团）开发教程</a></li>
 <li><a href="http://bbs.zhichiwangluo.com/thread-12192-1-2.html">社区类小程序（仿知乎/豆瓣/贴吧）开发教程</a></li>      
 </ul>
-</li>
-      
+</li>    
 <li>全球首个支付宝小程序开发教程！每日更新！
 <ul>
 <li><a href="http://bbs.zhichiwangluo.com/thread-14359-1-1.html">爆点：最新支付宝小程序开发教程汇总（更新）</a></li>
@@ -74,3 +73,11 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <li><a href="http://bbs.zhichiwangluo.com/thread-14370-1-1.html">第六步：支付宝小程序提审与发布（更新）</a></li>
 </ul>
 </li>
+<h2><a href="#视频教程" aria-hidden="true" class="anchor" id="user-content-视频教程"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>视频教程</h2>
+<ul>
+<li><a href="">免费视频教程 - WXOPEN.Club 出品微信小程序开发视频教程（持续更新中...）</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/tpgao_edu-view.html?typeid=12&cpid=8&courseid=1">视频 - 微信小程序入门开发教程第一期</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/tpgao_edu-view.html?typeid=39&cpid=269&courseid=8">视频 - 微信小程序行业应用第二期</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/tpgao_edu-view.html?typeid=8&cpid=422&courseid=38">视频 - 微信小程序高级开发教程第三期</a></li>
+<li><a href="http://bbs.zhichiwangluo.com/tpgao_edu-view.html?typeid=37&cpid=358&courseid=36">视频 - 即速应用小程序开发视频汇总</a></li>
+</ul>
