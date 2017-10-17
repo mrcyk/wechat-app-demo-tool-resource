@@ -63,6 +63,5 @@ wechat-app-demo-tool&amp;resource is about 微信小程序开发|小程序开发
 <li>全球首个支付宝小程序开发教程！每日更新！
 <ul>
 <li><a href="http://bbs.zhichiwangluo.com/thread-14359-1-1.html">爆点：最新支付宝小程序开发教程汇总（更新）</a></li>
-<li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">支付宝小程序-后台管理教程</a></li>
 </ul>
 </li>
